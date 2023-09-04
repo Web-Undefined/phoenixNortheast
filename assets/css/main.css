@@ -4012,6 +4012,10 @@ body.landing #main {
     #cta {
         padding: 2.5em 1em 3em 1em;
     }
+
+    #landingLogo {
+        max-width: 16.5em;
+    }
 }
 
 html {
