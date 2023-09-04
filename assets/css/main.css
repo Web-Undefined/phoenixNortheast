@@ -3,8 +3,6 @@
 
 /* Reset */
 
-/* Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain) */
-
 html,
 body,
 div,
@@ -4014,4 +4012,8 @@ body.landing #main {
     #cta {
         padding: 2.5em 1em 3em 1em;
     }
+}
+
+html {
+    scroll-behavior: smooth;
 }
